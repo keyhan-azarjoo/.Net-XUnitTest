@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXzKYaH47AMAonyH8tAKfBLS0/+2WS+grX25m/Pjhn2eeh+q+PY7cHf4m6ilVm46NQP1N6ELiV2x76vHsdJT5w==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\clean architecture implementation\\XUnitTest\\.Net-XUnitTest\\XUnit_Test_Basic_Advance\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
